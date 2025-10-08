@@ -16,9 +16,10 @@
 // =============================================================================
 // UPDATE THESE VALUES WITH YOUR ACTUAL CREDENTIALS
 // =============================================================================
-String username = 'your-integration-user@yourorg.com';
-String password = 'YourPassword123';
-String securityToken = 'YourSecurityToken123';
+private static Credentials__mdt creds = Credentials__mdt.getInstance('DestinationOrg');
+String username = creds.username__c;
+String password = creds.password__c;
+String securityToken = creds.securityToken__c;
 
 // =============================================================================
 // TEST VARIABLES

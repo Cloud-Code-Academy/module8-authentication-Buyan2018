@@ -1,0 +1,12 @@
+{
+  "Username": "buyan.int@testintegrationorg.com",
+  "Email": "buyan.int@testintegrationorg.com",
+  "LastName": "Integration User",
+  "Alias": "testinteg",
+  "TimeZoneSidKey": "America/Denver",
+  "LocaleSidKey": "en_US",
+  "EmailEncodingKey": "UTF-8",
+  "ProfileName": "Minimum Access - API Only Integrations",
+  "LanguageLocaleKey": "en_US",
+  "generatePassword": true
+}
