@@ -79,7 +79,7 @@ public class SFExternalCalloutWithToken {
 			'Name' => accountName,
 			'Description' => 'Created from external org via API',
 			'Industry' => 'Technology',
-			'Type' => 'Customer'
+			'Type' => 'Customer - Direct'
 		};
 
 		// Create HTTP request for account creation
